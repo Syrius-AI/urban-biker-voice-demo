@@ -1,0 +1,9 @@
+{
+  "name": "urban-biker-landing",
+  "private": true,
+  "type": "module",
+  "version": "1.0.0",
+  "dependencies": {
+    "retell-sdk": "^1.0.0"
+  }
+}
